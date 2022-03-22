@@ -1,0 +1,8 @@
+{
+    "FirstFile" : "file1.txt",
+    "LastFile" : "file2.txt",
+    "OutFile" : "result.txt",
+    "CropFileSizeLine" : 5000000,
+    "ThreadCount" : 12,
+    "Clean" : true
+}
